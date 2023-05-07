@@ -1,2 +1,2 @@
-# mavuno-repository
+# mavuno-my-first-repository
 My first repository!!!
